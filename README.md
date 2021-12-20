@@ -1,16 +1,13 @@
-### Hi there 👋
+With over 7 years in Corporate Development & Strategy, my recently acquired Full Stack WebDevelopment skills, and my ability to work closely with Dev. Teams, I focus on developing products that have a strong product-market fit.
 
-<!--
-**AlexandroKeith/alexandrokeith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have strong business analytical skills as well as a good understanding on how to implement short and longterm goals within a startup environment. 
 
-Here are some ideas to get you started:
+My multi-cultural background and experience living in numerous countries gives me the interpersonal skills required to thrive in a team driven company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Spoken languages: JavaScript, Ruby, HTML and CSS. 
+
+Fluent in French, English and Spanish.
+
+🌱 I’m currently learning React
+
+📫 How to reach me: alexandro.nussbaumer@gmail.com
