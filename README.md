@@ -1,4 +1,4 @@
-With over 7 years in Corporate Development & Strategy, my recently acquired Full Stack WebDevelopment skills, and my ability to work closely with Dev. Teams, I focus on developing products that have a strong product-market fit.
+With over 7 years in Corporate Development & Strategy, my recently acquired Full Stack WebDevelopment skills, and my ability to work closely with Dev. Teams, my aim is to develop products with a strong product market-fit.
 
 I have strong business analytical skills as well as a good understanding on how to implement short and longterm goals within a startup environment. 
 
